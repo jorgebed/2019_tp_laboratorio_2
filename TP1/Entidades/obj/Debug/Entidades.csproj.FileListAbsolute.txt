@@ -1,0 +1,5 @@
+C:\Users\Iurko\Desktop\2019 - PROGRAMACION II\2019 UTN\TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Iurko\Desktop\2019 - PROGRAMACION II\2019 UTN\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Iurko\Desktop\2019 - PROGRAMACION II\2019 UTN\TP1\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Iurko\Desktop\2019 - PROGRAMACION II\2019 UTN\TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Iurko\Desktop\2019 - PROGRAMACION II\2019 UTN\TP1\Entidades\obj\Debug\Entidades.pdb
