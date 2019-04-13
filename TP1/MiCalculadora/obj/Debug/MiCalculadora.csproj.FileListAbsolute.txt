@@ -1,0 +1,11 @@
+C:\Users\Iurko\Desktop\2019 - PROGRAMACION II\2019 UTN\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Iurko\Desktop\2019 - PROGRAMACION II\2019 UTN\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Iurko\Desktop\2019 - PROGRAMACION II\2019 UTN\TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Iurko\Desktop\2019 - PROGRAMACION II\2019 UTN\TP1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Iurko\Desktop\2019 - PROGRAMACION II\2019 UTN\TP1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Iurko\Desktop\2019 - PROGRAMACION II\2019 UTN\TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Iurko\Desktop\2019 - PROGRAMACION II\2019 UTN\TP1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Iurko\Desktop\2019 - PROGRAMACION II\2019 UTN\TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Iurko\Desktop\2019 - PROGRAMACION II\2019 UTN\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+C:\Users\Iurko\Desktop\2019 - PROGRAMACION II\2019 UTN\TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Iurko\Desktop\2019 - PROGRAMACION II\2019 UTN\TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb
