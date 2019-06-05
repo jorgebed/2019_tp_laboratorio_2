@@ -1,0 +1,11 @@
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb

@@ -1,0 +1,13 @@
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\TestUnitario\bin\Debug\ClasesAbstractas.dll
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\TestUnitario\bin\Debug\ClasesInstanciables.dll
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\TestUnitario\bin\Debug\Excepciones.dll
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\TestUnitario\bin\Debug\Archivos.dll
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\TestUnitario\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\TestUnitario\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\TestUnitario\bin\Debug\Excepciones.pdb
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\TestUnitario\bin\Debug\Archivos.pdb
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\TestUnitario\obj\Debug\TestUnitario.pdb

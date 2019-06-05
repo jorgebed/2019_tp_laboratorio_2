@@ -1,0 +1,9 @@
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Archivos\bin\Debug\ClasesAbstractas.dll
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Archivos\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Archivos\obj\Debug\Archivos.pdb

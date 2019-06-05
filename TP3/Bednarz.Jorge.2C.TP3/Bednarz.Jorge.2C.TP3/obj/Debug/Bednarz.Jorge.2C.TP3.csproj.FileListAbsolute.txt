@@ -1,0 +1,14 @@
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\Bednarz.Jorge.2C.TP3.exe.config
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\Bednarz.Jorge.2C.TP3.exe
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\Bednarz.Jorge.2C.TP3.pdb
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\Archivos.dll
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\ClasesAbstractas.dll
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\ClasesInstanciables.dll
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\Excepciones.dll
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\Archivos.pdb
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\bin\Debug\Excepciones.pdb
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\obj\Debug\Bednarz.Jorge.2C.TP3.csprojResolveAssemblyReference.cache
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\obj\Debug\Bednarz.Jorge.2C.TP3.exe
+C:\Users\Iurko\Desktop\Bednarz.Jorge.2C.TP3\Bednarz.Jorge.2C.TP3\obj\Debug\Bednarz.Jorge.2C.TP3.pdb
