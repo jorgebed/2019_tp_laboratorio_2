@@ -1,0 +1,10 @@
+C:\Users\Iurko\Desktop\2018 - PROGRAMACION II\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Iurko\Desktop\2018 - PROGRAMACION II\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Iurko\Desktop\2018 - PROGRAMACION II\TP4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Iurko\Desktop\2018 - PROGRAMACION II\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Iurko\Desktop\2018 - PROGRAMACION II\TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Iurko\Desktop\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Iurko\Desktop\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Iurko\Desktop\TP4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Iurko\Desktop\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Iurko\Desktop\TP4\Entidades\obj\Debug\Entidades.pdb

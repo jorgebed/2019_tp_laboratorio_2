@@ -1,0 +1,14 @@
+C:\Users\Iurko\Desktop\2018 - PROGRAMACION II\TP4\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+C:\Users\Iurko\Desktop\2018 - PROGRAMACION II\TP4\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\Iurko\Desktop\2018 - PROGRAMACION II\TP4\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\Iurko\Desktop\2018 - PROGRAMACION II\TP4\TestUnitario\bin\Debug\Entidades.dll
+C:\Users\Iurko\Desktop\2018 - PROGRAMACION II\TP4\TestUnitario\bin\Debug\Entidades.pdb
+C:\Users\Iurko\Desktop\2018 - PROGRAMACION II\TP4\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\Iurko\Desktop\2018 - PROGRAMACION II\TP4\TestUnitario\obj\Debug\TestUnitario.pdb
+C:\Users\Iurko\Desktop\TP4\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\Iurko\Desktop\TP4\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\Iurko\Desktop\TP4\TestUnitario\bin\Debug\Entidades.dll
+C:\Users\Iurko\Desktop\TP4\TestUnitario\bin\Debug\Entidades.pdb
+C:\Users\Iurko\Desktop\TP4\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+C:\Users\Iurko\Desktop\TP4\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\Iurko\Desktop\TP4\TestUnitario\obj\Debug\TestUnitario.pdb
