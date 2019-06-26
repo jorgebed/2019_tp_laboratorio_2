@@ -104,7 +104,10 @@ namespace MainCorreo
 
         private void mostrarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            rtbMostrar.Text = lstEstadoEntregado.SelectedItem.ToString();          
+            if ((object.ReferenceEquals(lstEstadoEntregado.SelectedItem, null)))
+                return;
+            else
+                rtbMostrar.Text = lstEstadoEntregado.SelectedItem.ToString();          
         }
     }
 }
